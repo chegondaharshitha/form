@@ -1,0 +1,10 @@
+body{
+   h1,h2{color:red}
+   background-color: chartreuse;
+}
+div{
+    Button{background-color: red;
+        width:100px;
+        height: 50px;
+    }
+}
